@@ -59,7 +59,7 @@ opts_chunk$set(echo=T,message = F, error = F, warning = F, comment = NA, fig.ali
 ```{r,echo=FALSE}
 
 library(pacman)
-p_load(dplyr,lubridate)
+p_load(dplyr,lubridate,readr)
 
 ```
 
